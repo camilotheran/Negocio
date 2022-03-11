@@ -1,0 +1,47 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+
+.contenedor-productos{
+    height: 300px;
+}
+/* tamaños */
+.size-14 {
+    font-size: 14px;
+}
+/* tipo de texto */
+.bold {
+    font-weight: bold;
+}
+/* botones */
+.button-car {
+    height: 30px;
+    width: 35px;
+    margin: 0 10px;
+    background: #D82626;
+    color: #fff;
+}
+/* display */
+.df {
+    display: flex;
+}
+.df-jc {
+    display: flex;
+    justify-content: center;
+}
+.df-js {
+    display: flex;
+    justify-content: space-between;
+}
+.db {
+    display: block;
+}
+/* footer */
+.footer {
+    background: linear-gradient(90deg, rgb(199, 0, 57) 0%, rgb(216, 38, 38,1)100%);
+    color: #fff;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    padding: 10px;
+}
+
